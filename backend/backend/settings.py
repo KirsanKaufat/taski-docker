@@ -11,7 +11,7 @@ DEBUG = True
 ALLOWED_HOSTS = []
 
 
-# Application definition2
+# Application definition
 
 INSTALLED_APPS = [
     'api.apps.ApiConfig',
